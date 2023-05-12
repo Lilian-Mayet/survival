@@ -1,0 +1,25 @@
+{
+  "sprite": "female01",
+  "name": "Daniel",
+  "level": 12,
+  "hp_max": 100,
+  "hp": 100,
+  "inventory": {
+    "1": {
+      "type": "knife",
+      "name": "crystal combat knife"
+    },
+    "2": {
+      "type": "knife",
+      "name": "iron knife"
+    },
+    "3": {
+      "type": "sword",
+      "name": "large light sword"
+    },
+    "4": {
+      "type": "knife",
+      "name": "diamond combat knife"
+    }
+  }
+}
